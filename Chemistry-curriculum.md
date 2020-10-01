@@ -14,7 +14,7 @@
 
 <a href="https://www.tasc.tas.gov.au/students/courses/science/chm415115-4/">Tasmania</a>
 
-<a href="https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/chemistry/Pages/index.aspx"><Victoria</a>
+<a href="https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/chemistry/Pages/index.aspx">Victoria</a>
 
 <a href="https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/chemistry-2017">New South Wales</a>
 
