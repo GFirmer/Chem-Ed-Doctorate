@@ -19,7 +19,7 @@
 
 <h2>Science Inquiry Skills</h2>
 <ul>
-  <li> </li>
+  <li><h5>Questioning</h5>Identify, research and refine questions for investigation</li>
   <li> </li>
   <li> </li>
   <li> </li>
