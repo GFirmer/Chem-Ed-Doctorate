@@ -19,12 +19,12 @@
 
 <h2>Science Inquiry Skills</h2>
 <ul>
-  <li><b>Questioning</b>Identify, research and refine questions for investigation</li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li><b>Questioning:</b> Identify, research and refine questions for investigation; propose hypotheses and predict possible outcomes</li>
+  <li><b>Designing Investigations:</b> Materials, procedure, data collection, risk assessment, research ethics</li>
+  <li><b>Conducting Investigations:</b> Safely & accurately collecting data</li>
+  <li><b>Representing Data:</b> In meaningful & useful ways including graphs, symbols, trend and error identification</li>
+  <li><b>Scientific Error:</b> Identify sources and estimate effect on results</li>
+  <li><b>Conslu</li>
 </ul>
 
 
