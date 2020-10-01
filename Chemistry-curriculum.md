@@ -4,7 +4,7 @@
 
 <h3>How is the Chemistry curriculum structured in Australia?</h3>
 
-<p>The science curriculum in Australia is divided into three strands: Science Understanding, Science Inquiry Skills, and Science as a Human Endeavour.</p>
+<p>The science curriculum in Australia is divided into three strands: Science Understanding, Science Inquiry Skills, and Science as a Human Endeavour. These strands are intended to be taught in an integrated fashion.</p>
 
 <h3>Why do we care about the curricula in all of the states?</h3>
 
