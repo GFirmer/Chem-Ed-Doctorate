@@ -30,7 +30,7 @@
 
 <h2>Science as a Human Endeavour</h2>
 
-<h4>Models & Theories</h4>
+<h4>Models & Theories/The Scientific Process</h4>
 <ul>
   <li>How are models developed over time?</li>
   <li>How are theories developed over time?</li>
