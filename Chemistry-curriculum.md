@@ -4,7 +4,7 @@
 
 
 
-<h3>Links to Australian Curriculum Documents</h3>
+<h3>Links to Australian Senior Chemistry Curriculum Documents</h3>
 
 [Australian Curriculum Chemistry](https://www.australiancurriculum.edu.au/senior-secondary-curriculum/science/chemistry/)
 
