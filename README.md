@@ -5,7 +5,7 @@ I am using this repository to share my research journey.
 
 Click the links below to see my work in some of the following areas as I go.
 
-[Project Home](https://gfirmer.github.io/Chemistry-teacher/)
+[Curriculum Project Overview](https://github.com/GFirmer/Chemistry-teacher/projects/1)
 
 [Chemistry Curriculum in Australia](https://gfirmer.github.io/Chemistry-teacher/Chemistry-curriculum)
 
