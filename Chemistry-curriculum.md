@@ -6,7 +6,7 @@
 
 <h3>Links to Australian Senior Chemistry Curriculum Documents</h3>
 
-<a>Australian Curriculum Chemistry https://www.australiancurriculum.edu.au/senior-secondary-curriculum/science/chemistry/</a>
+<a href="https://www.australiancurriculum.edu.au/senior-secondary-curriculum/science/chemistry/">Australian Curriculum</a>
 
 <a>South Australia & Northern Territory https://www.sace.sa.edu.au/web/chemistry</a>
 
