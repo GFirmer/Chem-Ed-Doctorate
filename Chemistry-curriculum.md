@@ -1,5 +1,5 @@
 <h1>Chemistry Curricula in Australia</h1>
-<body>
+
 <p>On this page I will share information about the chemistry curricula in Australia</p>
 
 <h3>How is the Chemistry curriculum structured in Australia?</h3>
@@ -28,4 +28,3 @@
 
 <p><a href="https://www.qcaa.qld.edu.au/senior/senior-subjects/sciences/chemistry/syllabus">Queensland</a></p>
 
-</body>
