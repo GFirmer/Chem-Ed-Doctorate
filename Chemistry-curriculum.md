@@ -8,7 +8,7 @@
 
 <h3>Why do we care about the curricula in all of the states?</h3>
 
-<p> </p>
+<p>The Year 11-12 Australian Chemistry Curriculum was written by <a href="https://www.acara.edu.au/curriculum/history-of-the-australian-curriculum/development-of-australian-curriculum">ACARA</a> as a guide for the courses in all of the states, and the first version was published during 2012 (?). Each state has based their chemistry course on the Australian curriculum. In my <a href="https://github.com/GFirmer/Chemistry-teacher/projects/1">curriculum project</a>, I am interested in looking more deeply at the similarities and differences between these courses.</p>
 
 <h3>Links to Australian Senior Chemistry Curriculum Documents</h3>
 
