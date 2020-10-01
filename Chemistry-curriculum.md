@@ -8,16 +8,14 @@
 
 [Australian Curriculum Chemistry](https://www.australiancurriculum.edu.au/senior-secondary-curriculum/science/chemistry/)
 
-<p> </p>
+[South Australia & Northern Territory](https://www.sace.sa.edu.au/web/chemistry)
 
-<p> </p>
+[Western Australia](https://senior-secondary.scsa.wa.edu.au/syllabus-and-support-materials/science/chemistry)
 
-<p> </p>
+[Tasmania](https://www.tasc.tas.gov.au/students/courses/science/chm415115-4/)
 
-<p> </p>
+[Victoria](https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/chemistry/Pages/index.aspx)
 
-
-
-
+[New South Wales](https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/chemistry-2017)
 
 </body>
