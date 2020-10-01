@@ -1,5 +1,4 @@
 <h1>List of topics covered in Year 11 & 12 Chemistry in Australia</h1>
-<body>
 
 
 <p>All of the science disciplines in the Australian Curriculum are constructed with three intergrated and interconnected strands: Science Understanding, Science Inquiry Skills and Science as a Human Endeavour. The cross-curriculum priorities and general capabilities are also intended to be taught in an integrated way in all subjects. This page is a summary of the key ideas found in at least one of the state or national curricula.
@@ -108,4 +107,4 @@
   <li>Intercultural Understanding</li>
 </ul>
 
-</body>
+
