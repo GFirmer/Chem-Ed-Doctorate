@@ -2,7 +2,13 @@
 <body>
 <p>On this page I will share information about the chemistry curricula in Australia</p>
 
+<h3>How is the Chemistry curriculum structured in Australia?</h3>
 
+<p> </p>
+
+<h3>Why do we care about the curricula in all of the states?</h3>
+
+<p> </p>
 
 <h3>Links to Australian Senior Chemistry Curriculum Documents</h3>
 
