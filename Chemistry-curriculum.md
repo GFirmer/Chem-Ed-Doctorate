@@ -8,16 +8,16 @@
 
 <a href="https://www.australiancurriculum.edu.au/senior-secondary-curriculum/science/chemistry/">Australian Curriculum</a>
 
-<a>South Australia & Northern Territory https://www.sace.sa.edu.au/web/chemistry</a>
+<a href="https://www.sace.sa.edu.au/web/chemistry">South Australia & Northern Territory</a>
 
-<a>Western Australia https://senior-secondary.scsa.wa.edu.au/syllabus-and-support-materials/science/chemistry</a>
+<a href="https://senior-secondary.scsa.wa.edu.au/syllabus-and-support-materials/science/chemistry">Western Australia</a>
 
-<a>Tasmania https://www.tasc.tas.gov.au/students/courses/science/chm415115-4/</a>
+<a href="https://www.tasc.tas.gov.au/students/courses/science/chm415115-4/">Tasmania</a>
 
-<a>Victoria https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/chemistry/Pages/index.aspx</a>
+<a href="https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/chemistry/Pages/index.aspx"><Victoria</a>
 
-<a>New South Wales https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/chemistry-2017</a>
+<a href="https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/chemistry-2017">New South Wales</a>
 
-<a>Queensland https://www.qcaa.qld.edu.au/senior/senior-subjects/sciences/chemistry/syllabus</a>
+<a href="https://www.qcaa.qld.edu.au/senior/senior-subjects/sciences/chemistry/syllabus">Queensland</a>
 
 </body>
