@@ -1,6 +1,6 @@
 # Chemistry teacher
 
-I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science, focussing on Chemistry education.
+I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science, focussing on secondary Chemistry education.
 
 In my Masters I am working towards creating an open-access platform for sharing secondary chemistry resources. 
 
@@ -8,7 +8,7 @@ I am using this repository and website to share my research journey.
 
 Click the links below to see my work in some of the following areas as I go.
 
-[Introduction to my project](https://github.com/alintheopen/SCOPE/issues/8)
+[Introduction to my Masters](https://github.com/alintheopen/SCOPE/issues/8)
 
 [Curriculum Project Overview](https://github.com/GFirmer/Chemistry-teacher/projects/1)
 
