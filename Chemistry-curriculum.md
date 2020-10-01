@@ -18,4 +18,6 @@
 
 [New South Wales](https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/stage-6-learning-areas/stage-6-science/chemistry-2017)
 
+[Queensland](https://www.qcaa.qld.edu.au/senior/senior-subjects/sciences/chemistry/syllabus)
+
 </body>
