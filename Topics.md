@@ -33,6 +33,7 @@
   <li>Green Chemistry</li>
   <li>Analytical Techniques</li>
   <li>Moles</li>
+  <li>Polymers</li>
 </ul>
 
 <p>Contexts for applying chemistry concepts in one or more state curriculum:</p>
