@@ -24,7 +24,12 @@
   <li><b>Conducting Investigations:</b> Safely & accurately collecting data</li>
   <li><b>Representing Data:</b> In meaningful & useful ways including graphs, symbols, trend and error identification</li>
   <li><b>Scientific Error:</b> Identify sources and estimate effect on results</li>
-  <li><b>Conslu</li>
+  <li><b>Conclusions:</b> Make and justify conclusions</li>
+  <li><b>Evaluate media and scientific texts:</b> Evaluate processes, claims and conclusions</li>
+  <li><b>Scientific Argumentation:</b> Construct scientific arguments</li>
+  <li><b>Representations:</b> Select, construct and use appropriate representations to communicate understanding, solve problems and make predictions</li>
+  <li><b>Mathematical representations:</b> Select and use appropriate representations to solve problems and make predictions</li>
+  <li><b>Communication:</b> Communicate to specific audiences and for specific purposes</li>
 </ul>
 
 
