@@ -8,13 +8,44 @@
 <p>The key ideas in the chemistry curriculum:</p>
 
 <h2>Science Understanding</h2>
+
+<p>Key topics covered in one or more state curriculum:</p>
+
 <ul>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li>The Periodic Table</li>
+  <li>Atomic Models</li>
+  <li>Bonding Models</li>
+  <li>Properties of Materials</li>
+  <li>Nanosciences</li>
+  <li>Intermolecular Forces</li>
+  <li>Molecular Shape</li>
+  <li>Structure-Property interactions</li>
+  <li>Solubility</li>
+  <li>Precipitation reactions</li>
+  <li>Acid-base chemistry</li>
+  <li>Redox reactions</li>
+  <li>Organic Chemistry</li>
+  <li>Enthalpy</li>
+  <li>Rates of Reaction</li>
+  <li>Equilibrium</li>
+  <li>Entropy</li>
+  <li>Chemical synthesis</li>
+  <li>Green Chemistry</li>
+  <li>Analytical Techniques</li>
+  <li>Moles</li>
+</ul>
+
+<p>Contexts for applying chemistry concepts in one or more state curriculum:</p>
+
+<ul>
+  <li>Mining</li>
+  <li>Recycling</li>
+  <li>Environmental Chemistry</li>
+  <li>Water Treatment</li>
+  <li>Soil chemistry</li>
+  <li>Corrosion</li>
+  <li>Fuels and energy sources</li>
+  <li>Biomolecules</li>
 </ul>
 
 <h2>Science Inquiry Skills</h2>
