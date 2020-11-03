@@ -128,7 +128,7 @@
 
 <h2>Cross-curriculum Priorities</h2>
 <ul>
-  <li> Aboriginal and Torres Strait Islander Histories and Cultures (https://gfirmer.github.io/Chemistry-teacher/ATSI-science) </li>
+  <li><a href="https://gfirmer.github.io/Chemistry-teacher/ATSI-science">Aboriginal and Torres Strait Islander Histories and Cultures</a></li>
   <li>Australia and Australia's Engagement with Asia</li>
   <li>Sustainability</li>
 </ul>
