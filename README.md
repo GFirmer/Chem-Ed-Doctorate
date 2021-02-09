@@ -1,6 +1,6 @@
-#Welcome
+<h1>Welcome!</h1>
 
-To my Masters project repository, where I will share my work on science education in Australia.
+<h3>To my Masters project repository, where I will share my work on science education in Australia.</h3>
 
 My name is Genevieve Firmer and I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science.
 
