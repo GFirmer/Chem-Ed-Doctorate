@@ -1,4 +1,4 @@
-<h1>Using Kriol to learn Biology</h1>
+<h2>Using Kriol to learn Biology</h2>
 
 <h4>Reflection by Genevieve Firmer</h4>
 <h4>Resources by Rickane Shark and Edwina Murphy</h4>
