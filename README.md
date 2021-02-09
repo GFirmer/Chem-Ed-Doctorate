@@ -4,6 +4,8 @@
 
 My name is Genevieve Firmer and I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science.
 
+<p>You can find me on twitter at <a href="https://twitter.com/Genevieve_Echo">@Genevieve_Echo</a></p>
+
 <h4>In my Masters I am working towards creating an open-access platform for sharing secondary chemistry resources. </h4>
 
 I am using this repository and website to share my research journey. 
@@ -21,8 +23,6 @@ Click the links below to see my work in some of the following areas as I go.
 <h4>Below I have hyperlinked some of the topics I've started some work in. Feel free to have a browse.</h4>
 
 <p><a href="https://gfirmer.github.io/Chemistry-teacher/ATSI-Science">Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum</a></p>
-
-<p>You can also find me on twitter at <a href="https://twitter.com/Genevieve_Echo">@Genevieve_Echo</a></p>
 
 <h4>SCOPE Research Group</h4>
 
