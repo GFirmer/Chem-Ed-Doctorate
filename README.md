@@ -1,5 +1,3 @@
-# Welcome!
-
 I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science, focussing on secondary Chemistry education.
 
 In my Masters I am working towards creating an open-access platform for sharing secondary chemistry resources. 
