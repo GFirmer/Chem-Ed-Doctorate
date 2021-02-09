@@ -1,4 +1,8 @@
-I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science, focussing on secondary Chemistry education.
+#Welcome
+
+To my Masters project repository, where I will share my work on science education in Australia.
+
+My name is Genevieve Firmer and I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science.
 
 In my Masters I am working towards creating an open-access platform for sharing secondary chemistry resources. 
 
