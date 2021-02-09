@@ -7,6 +7,8 @@
 
 <h6>In Kriol, the name for the place on which this work was conducted is Katharrain. In English, it is Katherine.</h6>
 
+
+
 <p>In this article, I would like to reflect on my experience as a non-Indigenous teacher facilitating the introduction of an Indigenous language into the senior science classroom. I hope that it demonstrates the power of two-way learning and the importance of supporting students to learn in, and share, their languages. 
 
 <p><a href="https://github.com/GFirmer/Chemistry-teacher/blob/master/Supporting%20materials%20The%20Human%20Body%20in%20Kriol%20and%20English.pdf">Here</a>, you can look through the resources that were created by two Indigenous students in my class, Rickane Shark and Edwina Murphy. These resources were created by them in a two-way dialogue with me, their biology teacher, as part of a science communication task.</p>
