@@ -1,11 +1,11 @@
 <h1>Using Kriol to learn Biology</h1>
 
-<h2>By Genevieve Firmer</h2>
-<h2>Resources by Rickane Shark and Edwina Murphy</h2>
+<h3>By Genevieve Firmer</h3>
+<h3>Resources by Rickane Shark and Edwina Murphy</h3>
 
-<h4>I would like to acknowledge the Jawoyn, Dagoman, Wardaman and Miali people, the traditional owners and custodians of the land on which this work was conducted, and where the authors lived at the time these resources were created. I wish to pay my respects to their Elders past and present.
+<h5>I would like to acknowledge the Jawoyn, Dagoman, Wardaman and Miali people, the traditional owners and custodians of the land on which this work was conducted, and where the authors lived at the time these resources were created. I wish to pay my respects to their Elders past and present.
 
-In Kriol, the name for the place on which this work was conducted is Katharrain. In English, it is Katherine.</h4>
+In Kriol, the name for the place on which this work was conducted is Katharrain. In English, it is Katherine.</h5>
 
 <p>In this article, I would like to reflect on my experience as a non-Indigenous teacher facilitating the introduction of an Indigenous language into the senior science classroom. I hope that it demonstrates the power of two-way learning and the importance of supporting students to learn in, and share, their languages. 
 
