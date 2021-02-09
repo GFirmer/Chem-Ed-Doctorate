@@ -3,9 +3,9 @@
 <h3>By Genevieve Firmer</h3>
 <h3>Resources by Rickane Shark and Edwina Murphy</h3>
 
-<h5>I would like to acknowledge the Jawoyn, Dagoman, Wardaman and Miali people, the traditional owners and custodians of the land on which this work was conducted, and where the authors lived at the time these resources were created. I wish to pay my respects to their Elders past and present.
+<h6>I would like to acknowledge the Jawoyn, Dagoman, Wardaman and Miali people, the traditional owners and custodians of the land on which this work was conducted, and where the authors lived at the time these resources were created. I wish to pay my respects to their Elders past and present.</h6>
 
-In Kriol, the name for the place on which this work was conducted is Katharrain. In English, it is Katherine.</h5>
+<h6>In Kriol, the name for the place on which this work was conducted is Katharrain. In English, it is Katherine.</h6>
 
 <p>In this article, I would like to reflect on my experience as a non-Indigenous teacher facilitating the introduction of an Indigenous language into the senior science classroom. I hope that it demonstrates the power of two-way learning and the importance of supporting students to learn in, and share, their languages. 
 
@@ -79,6 +79,7 @@ Thank you to the Indigenous Science Network for supporting the publication of th
 <h3>References</h3>
 
 <p>HANCOCK, R., MARTIN, B., LEE, A.-M., WILLIAMS, D., PONTO, H., THOMPSON, A., ANGELO, D. & GUMBULI, M. 1995. Health - An Aid for Kriol Interpreters. Katherine: Katherine Regional Aboriginal Language Centre.
+  
 TRUDGEN, R. I. 2015. Why Warriors lie down and die, Nhulunbuy, Why Warriors Pty Ltd.</p>
 
 
