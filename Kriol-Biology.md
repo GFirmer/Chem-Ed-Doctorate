@@ -1,7 +1,7 @@
 
 <h2>Using Kriol to learn Biology</h2>
 
-<h7>10 February, 2021</h7>
+<h5>10 February, 2021</h5>
 
 <h4>Reflection by Genevieve Firmer</h4>
 <h4>Resources by Rickane Shark and Edwina Murphy</h4>
