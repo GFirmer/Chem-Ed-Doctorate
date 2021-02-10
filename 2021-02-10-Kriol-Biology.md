@@ -1,3 +1,7 @@
+---
+layout:post
+---
+
 <h2>Using Kriol to learn Biology</h2>
 
 <h4>Reflection by Genevieve Firmer</h4>
