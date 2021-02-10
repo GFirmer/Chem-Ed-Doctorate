@@ -1,7 +1,6 @@
 title: Chemistry teacher
 author:
   name: Genevieve Firmer
-  twitter: @Genevieve_Echo
 description: >
   Creating an open-access platform for sharing 
   secondary chemistry resources.
@@ -11,6 +10,10 @@ show_excerpts: false
 # Minima date format
 minima:
   date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: Genevieve_Echo
 
 # Build settings
 theme: minima
