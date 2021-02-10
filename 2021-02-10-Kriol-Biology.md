@@ -1,6 +1,3 @@
----
-layout:post
----
 
 <h2>Using Kriol to learn Biology</h2>
 
