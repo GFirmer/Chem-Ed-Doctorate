@@ -13,7 +13,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: Genevieve_Echo
+    twitter: https://twitter.com/Genevieve_Echo 
 
 # Build settings
 theme: minima
