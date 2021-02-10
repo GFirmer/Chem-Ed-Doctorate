@@ -1,10 +1,9 @@
 
 <h2>Using Kriol to learn Biology</h2>
 
-<h5>10 February, 2021</h5>
-
 <h4>Reflection by Genevieve Firmer</h4>
 <h4>Resources by Rickane Shark and Edwina Murphy</h4>
+<h5>10 February, 2021</h5>
 
 <h6>I would like to acknowledge the Jawoyn, Dagoman, Wardaman and Miali people, the traditional owners and custodians of the land on which this work was conducted, and where the authors lived at the time these resources were created. I wish to pay my respects to their Elders past and present.</h6>
 
