@@ -4,8 +4,6 @@
 
 My name is Genevieve Firmer and I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Masters of Philosophy in Science.
 
-<h6>You can find me on twitter at <a href="https://twitter.com/Genevieve_Echo">@Genevieve_Echo</a></h6>
-
 <h4>In my Masters I am working towards creating an open-access platform for sharing secondary chemistry resources. </h4>
 
 <p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started some work in. Free free to have a browse.</p>
