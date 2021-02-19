@@ -10,6 +10,8 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 [Introduction to my Masters](https://github.com/alintheopen/SCOPE/issues/8)
 
+<h2>Curriculum Project</h2>
+
 [Curriculum Project Overview](https://github.com/GFirmer/Chemistry-teacher/projects/1)
 
 [Chemistry Curriculum in Australia](https://gfirmer.github.io/Chemistry-teacher/Chemistry-curriculum)
@@ -17,6 +19,10 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 [Research in Chemistry Education by topic](https://gfirmer.github.io/Chemistry-teacher/Research-by-topic)
 
 [Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chemistry-teacher/ATSI-Science)
+
+<h2>Teacher Resources Project</h2>
+
+[Teacher Resources Project Overview](https://github.com/GFirmer/Chemistry-teacher/projects/2)
 
 <h2>SCOPE Research Group</h2>
 
