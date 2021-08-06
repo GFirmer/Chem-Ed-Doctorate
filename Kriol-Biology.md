@@ -1,6 +1,8 @@
 
 <h2>Using Kriol to learn Biology</h2>
 
+<p>Excerpt published in <a href="http://members.ozemail.com.au/~mmichie/ISN%20Bulletin_Feb2021.pdf">The Indigenous Science Network Bulletin</a> in February 2021</p>
+
 <h4>Reflection by Genevieve Firmer, Resources by Rickane Shark and Edwina Murphy</h4>
 <h5>10 February, 2021</h5>
 
