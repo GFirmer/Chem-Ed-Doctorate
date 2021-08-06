@@ -8,8 +8,6 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 <p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started some work in. Free free to have a browse.</p>
 
-[Introduction to my Masters](https://github.com/alintheopen/SCOPE/issues/8)
-
 <h2>Curriculum Project</h2>
 
 [Curriculum Project Overview](https://github.com/GFirmer/Chemistry-teacher/blob/master/Curriculum%20Project%20Introduction.md)
@@ -25,6 +23,10 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 <h2>Teacher Resources Project</h2>
 
 [Teacher Resources Project Overview](https://github.com/GFirmer/Chemistry-teacher/projects/2)
+
+<h2>Progress Blogs</h2>
+
+[Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
 
 <h2>SCOPE Research Group</h2>
 
