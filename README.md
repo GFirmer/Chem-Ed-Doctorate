@@ -22,7 +22,7 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 <h2>Teacher Resources Project</h2>
 
-[Teacher Resources Project Overview](https://github.com/GFirmer/Chemistry-teacher/projects/2)
+[Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
 
 <h2>Progress Blogs</h2>
 
