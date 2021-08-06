@@ -12,7 +12,9 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 <h2>Curriculum Project</h2>
 
-[Curriculum Project Overview](https://github.com/GFirmer/Chemistry-teacher/projects/1)
+[Curriculum Project Overview]
+
+[Curriculum Project Progress](https://github.com/GFirmer/Chemistry-teacher/projects/1)
 
 [Chemistry Curriculum in Australia](https://gfirmer.github.io/Chemistry-teacher/Chemistry-curriculum)
 
