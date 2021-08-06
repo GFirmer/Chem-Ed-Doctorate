@@ -5,9 +5,11 @@ In this project, I am planning to conduct what is called a post-structural analy
 We have seven year 11-12 chemistry courses in Australia at the moment. Each of these is theoretically similar, as they were all designed based on the Australian curriculum chemistry courses. However, anecdotally, and in my own reading of the courses, there are some key differences. I am interested in finding out how these differences in the design of the courses influence the way teachers read, plan and implement the curriculum in their classrooms. 
 
 Some of the key design differences I am planning to analyse include the three listed below. However, I hope that my research will also capture other aspects that may be worth exploring in the future.
-<ul>Depth, breadth, rigour and flexibility of chemistry concepts
-How the Science as a Human Endeavour concepts are integrated and mandated
-How the Aboriginal and Torres Strait Islander Histories and Cultures Cross-Curriculum Priority is integrated and mandated</ul>
+<ul>
+  <li>Depth, breadth, rigour and flexibility of chemistry concepts</li>
+  <li>How the Science as a Human Endeavour concepts are integrated and mandated</li>
+  <li>How the Aboriginal and Torres Strait Islander Histories and Cultures Cross-Curriculum Priority is integrated and mandated</li>
+</ul>
 
 I am going to quantitatively analyse these three parts of each of the seven chemistry courses. Then, to understand how these design characteristics influence teachers' reading, planning and implementing, I am hoping to conduct interviews with a wide range of teachers across the country and across school systems. I will find out directly from them, what their experiences of curriculum are, and try to understand their perceptions of why. This part of the study is going to be conducted using a phenomengraphic lens, where I specifically search for different conceptions of curriculum that exist across states and systems, and try to understand the key reasons for those differences. 
 
