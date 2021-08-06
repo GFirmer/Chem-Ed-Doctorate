@@ -28,6 +28,12 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 [Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
 
+<h2>Published Works</h2>
+
+[Using Kriol to Teach Biology](https://github.com/GFirmer/Chemistry-teacher/blob/master/Kriol-Biology.md)
+
+E$$ENTIAL MEDICINE$ in Schools (link coming soon)
+
 <h2>SCOPE Research Group</h2>
 
 I am part of the [SCOPE (Science, Communication, Outreach, Participation and Education)](https://github.com/alintheopen/SCOPE) research group. We're a team of open source research students, post-docs and academics, who combine multi-disciplinary research and experience to develop better resources, practices and general approaches to science engagement. Our work is open source so please have a browse. To have a look at more of the work we do, head on over to the group [wiki](https://github.com/alintheopen/SCOPE/wiki) to find information about us and the projects we are working on.
