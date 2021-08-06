@@ -12,7 +12,7 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 <h2>Curriculum Project</h2>
 
-[Curriculum Project Overview]
+[Curriculum Project Overview](https://github.com/GFirmer/Chemistry-teacher/blob/master/Curriculum%20Project%20Introduction.md)
 
 [Curriculum Project Progress](https://github.com/GFirmer/Chemistry-teacher/projects/1)
 
