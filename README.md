@@ -4,7 +4,7 @@
 
 My name is Genevieve Firmer and I am a senior secondary teacher specialising in Chemistry and Biology. I have experience teaching in the Northern Territory and am now working on my Doctor of Philosophy in Science (specifically, chemistry education).
 
-<h4>In my PhD I am working towards creating an open-access platform for sharing secondary chemistry resources. </h4>
+<h4>In my PhD I am conducting a post-structural analysis of the year 11-12 chemistry courses in Australia, and working towards creating an open-access platform for sharing secondary chemistry resources. </h4>
 
 <p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started some work in. Free free to have a browse.</p>
 
