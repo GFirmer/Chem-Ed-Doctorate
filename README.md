@@ -18,17 +18,15 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 [Research in Chemistry Education by topic](https://gfirmer.github.io/Chemistry-teacher/Research-by-topic)
 
-[Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chemistry-teacher/ATSI-Science)
-
 <h2>Teacher Resources Project</h2>
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
 
-[The Second Law of Thermodynamics](https://gfirmer.github.io/Chemistry-teacher/Entropy)
-
-<h2>Published Works</h2>
+[Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chemistry-teacher/ATSI-Science)
 
 [Using Kriol to Teach Biology](https://gfirmer.github.io/Chemistry-teacher/Kriol-Biology)
+
+[The Second Law of Thermodynamics](https://gfirmer.github.io/Chemistry-teacher/Entropy)
 
 [E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
 
