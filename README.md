@@ -23,7 +23,10 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
 
 [Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chemistry-teacher/ATSI-Science)
-  [Using Kriol to Teach Biology](https://gfirmer.github.io/Chemistry-teacher/Kriol-Biology)
+
+<ul>
+  <a=href="https://gfirmer.github.io/Chemistry-teacher/Kriol-Biology">Using Kriol to Teach Biology</a>
+</ul>
 
 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chemistry-teacher/Entropy)
 
