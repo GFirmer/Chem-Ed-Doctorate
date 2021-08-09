@@ -28,7 +28,7 @@
   <li>Enthalpy</li>
   <li>Rates of Reaction</li>
   <li>Equilibrium</li>
-  <li>Entropy</li>
+  <li><a href="Entropy">https://gfirmer.github.io/Chemistry-teacher/Entropy</a></li>
   <li>Chemical synthesis</li>
   <li>Green Chemistry</li>
   <li>Analytical Techniques</li>
