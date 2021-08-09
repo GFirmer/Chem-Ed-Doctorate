@@ -24,8 +24,6 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
 
-<h3>Resources in progress</h3>
-
 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chemistry-teacher/Entropy)
 
 <h2>Published Works</h2>
