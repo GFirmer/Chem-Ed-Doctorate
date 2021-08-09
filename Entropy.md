@@ -9,7 +9,7 @@ Our task was to make the most engaging online science workshop possible, within 
 Our topic: The Second Law of Thermodynamics - Entropy. We set out on a mission to identify all of the examples where the second law of thermodynamics could reasonably be perceived to be broken. We asked the students:
 
 <ul>
-  If all things should get more disordered, how do ionic crystals form ordered geometric patterns?
+  <h5>If all things should get more disordered, how do ionic crystals form ordered geometric patterns?</h5>
   If all things should get more disordered, why do proteins fold into specific shapes? Why do the protein subunits of viruses come together to form regular shapes like dodecahedrons?
   If all things should get more disordered, how does silica form ordered colloidal shapes that reflect the colours in opals?
   If all things should get more disordered, how do phospholipids come together to form micelles?
