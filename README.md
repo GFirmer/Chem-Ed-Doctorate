@@ -32,7 +32,7 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 [Using Kriol to Teach Biology](https://github.com/GFirmer/Chemistry-teacher/blob/master/Kriol-Biology.md)
 
-E$$ENTIAL MEDICINE$ in Schools (link coming soon)
+[E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
 
 <h2>SCOPE Research Group</h2>
 
