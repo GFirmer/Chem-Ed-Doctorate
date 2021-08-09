@@ -9,10 +9,10 @@ Our task was to make the most engaging online science workshop possible, within 
 Our topic: The Second Law of Thermodynamics - Entropy. We set out on a mission to identify all of the examples where the second law of thermodynamics could reasonably be perceived to be broken. We asked the students:
 
 <ul>
-If all things should get more disordered, how do ionic crystals form ordered geometric patterns?
-If all things should get more disordered, why do proteins fold into specific shapes? Why do the protein subunits of viruses come together to form regular shapes like dodecahedrons?
-If all things should get more disordered, how does silica form ordered colloidal shapes that reflect the colours in opals?
-If all things should get more disordered, how do phospholipids come together to form micelles?
+  If all things should get more disordered, how do ionic crystals form ordered geometric patterns?
+  If all things should get more disordered, why do proteins fold into specific shapes? Why do the protein subunits of viruses come together to form regular shapes like dodecahedrons?
+  If all things should get more disordered, how does silica form ordered colloidal shapes that reflect the colours in opals?
+  If all things should get more disordered, how do phospholipids come together to form micelles?
 </ul>
 
 We sent out crystallisation kits, cheap K-mart microscopes, opal shards and 3D-printed magnetic self-assembling poliovirus models (developed by Arthur Olson at Scripps Research) for the students to convince themselves that entropy could not possibly be true. Then, step-by-step, we used computational simulations (using HOOMD-Blue, set up by Jared Wood at the ARC Centre of Excellence in Exciton Science) to test our new theory.
