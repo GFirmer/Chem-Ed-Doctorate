@@ -24,15 +24,15 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
 
-<h2>Progress Blogs</h2>
-
-[Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
-
 <h2>Published Works</h2>
 
 [Using Kriol to Teach Biology](https://github.com/GFirmer/Chemistry-teacher/blob/master/Kriol-Biology.md)
 
 [E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
+
+<h2>Progress Blogs</h2>
+
+[Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
 
 <h2>SCOPE Research Group</h2>
 
