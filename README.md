@@ -32,9 +32,11 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 <a href="https://gfirmer.github.io/Chemistry-teacher/Kriol-Biology">Using Kriol to Teach Biology</a>
 
-<h2>Progress Blogs</h2>
+<h2>Blogs</h2>
 
 [Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
+
+[Ponderings of a PhD student](https://gfirmer.github.io/Chemistry-teacher/Ponderings-of-a-PhD)
 
 <h2>SCOPE Research Group</h2>
 
