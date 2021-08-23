@@ -32,6 +32,8 @@ My name is Genevieve Firmer and I am a senior secondary teacher specialising in 
 
 <a href="https://gfirmer.github.io/Chemistry-teacher/Kriol-Biology">Using Kriol to Teach Biology</a>
 
+[Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chemistry-teacher/Antibiotic-plants-Jawoyn)
+
 <h2>Blogs</h2>
 
 [Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
