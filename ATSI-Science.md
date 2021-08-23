@@ -6,4 +6,4 @@
 <p>Where I am sharing the work of my students, I will name them as authors with their personal and guardian's permission.</p>
   
 <p><a href="https://gfirmer.github.io/Chemistry-teacher/Kriol-Biology">Using Kriol to learn Biology</a></p>
-[Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chemistry-teacher/Antibiotic-plants-Jawoyn)
+<p><a href="https://gfirmer.github.io/Chemistry-teacher/Antibiotic-plants-Jawoyn">Antibiotic Plants in the Jawoyn Region</a></p>
