@@ -17,4 +17,4 @@
 
 <h5><a href="https://github.com/GFirmer/Chemistry-teacher/blob/master/Antibiotic%20plants%20in%20the%20Jawoyn%20region.pdf">Read Tahnee's Report here</a></h5>
 
-<h5><a href"https://www.dropbox.com/s/pdbu9zh4dyzloyd/ISN%20Bulletin_Aug%202021.pdf?dl=0">Read the August 2021 edition of the International Science Network Bulletin here</a></h5>
+<h5><a href="https://www.dropbox.com/s/pdbu9zh4dyzloyd/ISN%20Bulletin_Aug%202021.pdf?dl=0">Read the August 2021 edition of the International Science Network Bulletin here</a></h5>
