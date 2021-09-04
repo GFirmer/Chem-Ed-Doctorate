@@ -1,4 +1,5 @@
-<h1>On Writing Well</h1>
+<h1>Reflections on my readings</h1>
+<h2>On Writing Well</h2>
 <h4>By William Zinsser</h4>
 
 I picked up this book about non-fiction writing when I was starting to write my first manuscript. At the time, I was also writing a revised research plan after finally really working out what I wanted to do with my PhD. It was a nice, easy read - I'm coming to value PhD work time where I can gently absorb something that will add to my skills or understanding rather than going at full pelt all the time. Reading the book gave me an opportunity to reflect on my writing process and I'd like to summarise the ones that were the most helpful for my PhD journey here. 
