@@ -2,9 +2,7 @@
 
 <h3>To my PhD research repository, where I will share my work on science education in Australia.</h3>
 
-My name is Genevieve Firmer and I am an energetic and innovative science educator. I have experience in F-10 science and STEM, senior chemistry and biology and curriculum leadership. I am currently working on my PhD in Chemistry Education as part of the [SCOPE Group](https://github.com/alintheopen/SCOPE), where I am focussing on how curriculum influences classroom practice. From this research, I am hoping to develop evidence-based, open-access teaching & learning resources for senior chemistry.
-
-<h4>In my PhD I am conducting a post-structural analysis of the year 11-12 chemistry courses in Australia, and working towards creating an open-access platform for sharing secondary chemistry resources. </h4>
+<p>My name is Genevieve Firmer and I am an energetic and innovative science educator. I have experience in F-10 science and STEM, senior chemistry and biology and curriculum leadership. I am currently working on my PhD in Chemistry Education as part of the [SCOPE Group](https://github.com/alintheopen/SCOPE), where I am focussing on how curriculum influences classroom practice. From this research, I am hoping to develop evidence-based, open-access teaching & learning resources for senior chemistry.</p>
 
 <p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started to share my work in. Please feel free to have a browse. If you have any queries, ideas or feedback, please feel free to share them in the issues tab.</p>
 
