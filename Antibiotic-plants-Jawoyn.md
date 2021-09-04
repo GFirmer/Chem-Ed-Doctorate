@@ -1,7 +1,7 @@
 <h1>Antibiotic Plants in the Jawoyn Region</h1>
 <h4>By Tahnee Brown, Report written for Year 11 Biology Deconstruct & Design Task</h4>
 
-<h5>Submission to the <a href="https://www.dropbox.com/s/pdbu9zh4dyzloyd/ISN%20Bulletin_Aug%202021.pdf?dl=0">Indigenous Science Network Bulletin</a> supported by teacher, Genevieve Firmer</h5>
+<h5>Submission to the <a href="http://members.ozemail.com.au/~mmichie/ISN%20Bulletin_Aug2021.pdf">Indigenous Science Network Bulletin</a> supported by teacher, Genevieve Firmer</h5>
 
 <p>For this task, students were given free choice to design and conduct a scientific investigation related to our topic of microorganisms. The best thing about being a teacher is working with great students, particularly when they bring fresh, creative and innovative ideas about solving complex problems into the classroom. When the idea about investigating something to do with local Indigenous knowledge came up in discussions, Tahnee enthusiastically took on the challenge. She consulted a book we had in the classroom about medicinal plants in the region and started a conversation with Ozzie Daylight, a traditional owner of the nearby Elsey Station, whom she has known through her family connections for many years. Tahnee brought all this information together to design the scientific investigation presented below about the anti-bacterial properties of a selection of local plants.</p>
 
