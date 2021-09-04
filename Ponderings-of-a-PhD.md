@@ -4,4 +4,4 @@
 
 <h3>Reflections on Books & Readings that have made me a better student</h3>
 
-[On Writing Well by William Zinsser](https://gfirmer.github.io/Chemistry-teacher/On-Writing-Well) 
+[On Writing Well by William Zinsser](https://gfirmer.github.io/Chem-Ed-Doctorate/On-Writing-Well) 
