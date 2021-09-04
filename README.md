@@ -6,15 +6,15 @@
 
 <p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started to share my work in. Please feel free to have a browse. If you have any queries, ideas or feedback, please feel free to share them in the issues tab.</p>
 
-<h2>Curriculum Project</h2>
+<h2>Curriculum Analysis</h2>
 
-[Curriculum Project Overview](https://github.com/GFirmer/Chemistry-teacher/blob/master/Curriculum%20Project%20Introduction.md)
+[Curriculum Analysis Overview](https://github.com/GFirmer/Chemistry-teacher/blob/master/Curriculum%20Project%20Introduction.md)
 
-[Curriculum Project Progress](https://github.com/GFirmer/Chemistry-teacher/projects/1)
+[Curriculum Analysis Progress](https://github.com/GFirmer/Chemistry-teacher/projects/1)
 
 [Chemistry Curriculum in Australia](https://gfirmer.github.io/Chemistry-teacher/Chemistry-curriculum)
 
-<h2>Teacher Resources Project</h2>
+<h2>Teacher Resources</h2>
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
 
