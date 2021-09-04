@@ -14,8 +14,6 @@
 
 [Chemistry Curriculum in Australia](https://gfirmer.github.io/Chemistry-teacher/Chemistry-curriculum)
 
-[Research in Chemistry Education by topic](https://gfirmer.github.io/Chemistry-teacher/Research-by-topic)
-
 <h2>Teacher Resources Project</h2>
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
