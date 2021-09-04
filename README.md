@@ -8,33 +8,32 @@
 
 <h2>Curriculum Analysis</h2>
 
-[Curriculum Analysis Overview](https://github.com/GFirmer/Chemistry-teacher/blob/master/Curriculum%20Project%20Introduction.md)
+[Curriculum Analysis Overview](https://gfirmer.github.io/Chem-Ed-Doctorate/Curriculum-Project-Introduction)
 
-[Curriculum Analysis Progress](https://github.com/GFirmer/Chemistry-teacher/projects/1)
+[Curriculum Analysis Progress](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/1)
 
-[Chemistry Curriculum in Australia](https://gfirmer.github.io/Chemistry-teacher/Chemistry-curriculum)
 
 <h2>Teacher Resources</h2>
 
-[Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chemistry-teacher/projects/2)
+[Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/2)
 
-[Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chemistry-teacher/ATSI-Science)
+[Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chem-Ed-Doctorate/ATSI-Science)
 
-[The Second Law of Thermodynamics](https://gfirmer.github.io/Chemistry-teacher/Entropy)
+[The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
 
 [E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
 
 <h2>Published Works</h2>
 
-<a href="https://gfirmer.github.io/Chemistry-teacher/Kriol-Biology">Using Kriol to Teach Biology</a>
+<a href="https://gfirmer.github.io/Chem-Ed-Doctorate/Kriol-Biology">Using Kriol to Teach Biology</a>
 
-[Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chemistry-teacher/Antibiotic-plants-Jawoyn)
+[Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chem-Ed-Doctorate/Antibiotic-plants-Jawoyn)
 
 <h2>Blogs</h2>
 
 [Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
 
-[Ponderings of a PhD student](https://gfirmer.github.io/Chemistry-teacher/Ponderings-of-a-PhD)
+[Ponderings of a PhD student](https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD)
 
 <h2>SCOPE Research Group</h2>
 
