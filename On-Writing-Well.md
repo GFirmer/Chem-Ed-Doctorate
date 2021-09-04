@@ -13,7 +13,7 @@ One of the most important gifts re-writing has given me so far is the ability to
 
 Zinsser also draws attention to the fact that everyone manages to write many more words than are necessary in their first draft. I'm not sure why this is - but he does suggest that a key part of any good writer's progress is ruthlessly cutting out any superfluous matter. I've found being aware of this really helpful in my writing. Other things I've become hyper-aware of, which have really improved my writing, are checking that I'm writing with a consistent tone, ensuring I don't try to make too many points in one sentence or paragraph and making sure the story is coherent - that I haven't missed logical steps in my writing just because a topic is so familiar to me that I don't notice.
 
-<h3>2. Reading out-loud
+<h3>2. Reading out-loud</h3>
 
 In my re-writing process, I've also added in a read-aloud step. Zinsser suggests that most people read by 'listening' to the sentences inside their heads, and since then, I haven't been able to un-hear the little reading voice inside my head. So I've been asking myself the questions: Does it sound 'nice'? Is it easy to say? Are the sentences so long that I need to stop to take a breath part way through? In my first attempts at writing and re-writing after reading the book, this was ridiculously helpful in that it enabled me to see the repetitive and unnecessary words I'd been using in my flow state, as well as assisting me with unleashing a little bit of musical creativity in my writing.
 
