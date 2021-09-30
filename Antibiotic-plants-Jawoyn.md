@@ -15,6 +15,6 @@
 
 <h6>I would like to acknowledge the Jawoyn, Dagoman, Wardaman and Miali people, the traditional owners and custodians of the land on which this work was conducted, and where the authors lived at the time this project was completed.</h6>
 
-<h5><a href="https://github.com/GFirmer/Chem-Ed-Doctorate/blob/master/Antibiotic%20plants%20in%20the%20Jawoyn%20region.pdf">Read Tahnee's Report here</a></h5>
+<h3><a href="https://github.com/GFirmer/Chem-Ed-Doctorate/blob/master/Antibiotic%20plants%20in%20the%20Jawoyn%20region.pdf">Read Tahnee's Report here</a></h3>
 
 <h5><a href="http://members.ozemail.com.au/~mmichie/network.html">Read other issues of the International Science Network Bulletin here</a></h5>
