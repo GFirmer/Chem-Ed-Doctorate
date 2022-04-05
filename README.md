@@ -13,7 +13,7 @@
 [Curriculum Analysis Progress](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/1)
 
 
-<h2>Teacher Resources</h2>
+<h2>Education Resources</h2>
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/2)
 
