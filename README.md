@@ -6,14 +6,14 @@
 
 <p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started to share my work in. Please feel free to have a browse. If you have any queries, ideas or feedback, please get in touch via the discussions tab.</p>
 
-<h2>Curriculum Analysis</h2>
+<h2>Australian Chemistry Curriculum Analysis</h2>
 
 [Curriculum Analysis Overview](https://gfirmer.github.io/Chem-Ed-Doctorate/Curriculum-Project-Introduction)
 
 [Curriculum Analysis Progress](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/1)
 
 
-<h2>Education Projects</h2>
+<h2>Other Education Projects</h2>
 
 [E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
 
