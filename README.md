@@ -13,15 +13,19 @@
 [Curriculum Analysis Progress](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/1)
 
 
-<h2>Education Resources</h2>
+<h2>Education Projects</h2>
+
+[E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
+
+Nanosonic stories - coming soon
+
+USYD International Science School [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
+
+<h2>Teaching Resources</h2>
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/2)
 
 [Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chem-Ed-Doctorate/ATSI-Science)
-
-[The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
-
-[E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
 
 <h2>Published Works</h2>
 
