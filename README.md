@@ -19,7 +19,7 @@
 
 Nanosonic stories - coming soon
 
-USYD International Science School [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
+USYD International Science School Chemistry Workshop 2021 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
 
 <h2>Teaching Resources</h2>
 
