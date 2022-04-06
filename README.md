@@ -19,7 +19,7 @@
 
 <p>As a teacher-turned-PhD-student, I am doing a terrible job at staying focussed just on my project. Here are some of the other things I've been working on.</p>
 
-<h4>E$$ENTIAL MEDICINE$</h4>
+<h3>E$$ENTIAL MEDICINE$</h3>
 
 <p>E$$ENTIAL MEDICINE$ is a <a href="https://www.breakinggoodproject.com/">Breaking Good</a> intiative. We are investigating the accesibility of the world's most important medicines, to the people who need them the most. I have been working with the team on the school-based project, where we involve school students in our research. At the same time, students learn about the importance of chemistry in their everyday lives. Read more about our work here:</p>
 
@@ -29,15 +29,15 @@
 
 [E$$ENTIAL MEDICINE$ in Schools blog](https://github.com/alintheopen/SCOPE/issues/13)
 
-<h4>Nanosonic stories</h4>
+<h3>Nanosonic stories</h3>
 
 coming soon
 
-<h4>USYD Outreach</h4>
+<h3>USYD Outreach</h3>
 
 USYD International Science School Chemistry Workshop 2021 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
 
-<h4>Future Anything</h4>
+<h3>Future Anything</h3>
 
 I am working as a Program Manager (Science & STEM Specialist) for Future Anything. We use the curriculum as a vehicle to support students to see that they _can_ do something about the problems they see in the world. [Find out more here](https://futureanything.com/)
 
