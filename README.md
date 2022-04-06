@@ -17,11 +17,11 @@
 
 <h2>Other Education Projects</h2>
 
-<p>As a teacher-turned-PhD-student, I am doing a terrible job at staying focussed on my specific and narrow project. Here are some of the other things I've been working on.</p>
+<p>As a teacher-turned-PhD-student, I am doing a terrible job at staying focussed just on my project. Here are some of the other things I've been working on.</p>
 
-<h5>E$$ENTIAL MEDICINE$</h5>
+<h4>E$$ENTIAL MEDICINE$</h4>
 
-
+E$$ENTIAL MEDICINE$ is a [Breaking Good](https://www.breakinggoodproject.com/) intiative. We are investigating the accesibility of the world's most important medicines, to the people who need them the most. I have been working with the team on the school-based project, where we involve school students in our research. At the same time, students learn about the importance of chemistry in their everyday lives. Read more about our work here:
 
 [E$$ENTIAL MEDICINE$ Website](https://www.breakinggoodproject.com/essentialmedicines)
 
@@ -29,7 +29,11 @@
 
 [E$$ENTIAL MEDICINE$ in Schools blog](https://github.com/alintheopen/SCOPE/issues/13)
 
-Nanosonic stories - coming soon
+<h4>Nanosonic stories</h4>
+
+coming soon
+
+<h4>USYD Outreach</h4>
 
 USYD International Science School Chemistry Workshop 2021 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
 
