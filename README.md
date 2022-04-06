@@ -19,7 +19,15 @@
 
 <p>As a teacher-turned-PhD-student, I am doing a terrible job at staying focussed on my specific and narrow project. Here are some of the other things I've been working on.</p>
 
-[E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
+<h5>E$$ENTIAL MEDICINE$</h5>
+
+
+
+[E$$ENTIAL MEDICINE$ Website](https://www.breakinggoodproject.com/essentialmedicines)
+
+[E$$ENTIAL MEDICINE$ Repository](https://github.com/TheBreakingGoodProject/Essential-Medicines)
+
+[E$$ENTIAL MEDICINE$ in Schools blog](https://github.com/alintheopen/SCOPE/issues/13)
 
 Nanosonic stories - coming soon
 
