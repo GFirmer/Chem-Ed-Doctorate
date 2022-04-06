@@ -29,7 +29,7 @@
 
 <h3>Nanosonic stories</h3>
 
-coming soon
+<p>We are researching ways to communicate science through sound. Watch this space!</p>
 
 <h3>USYD Outreach</h3>
 
