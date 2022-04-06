@@ -21,7 +21,7 @@
 
 <h4>E$$ENTIAL MEDICINE$</h4>
 
-E$$ENTIAL MEDICINE$ is a [Breaking Good](https://www.breakinggoodproject.com/) intiative. We are investigating the accesibility of the world's most important medicines, to the people who need them the most. I have been working with the team on the school-based project, where we involve school students in our research. At the same time, students learn about the importance of chemistry in their everyday lives. Read more about our work here:
+<p>E$$ENTIAL MEDICINE$ is a [Breaking Good](https://www.breakinggoodproject.com/) intiative. We are investigating the accesibility of the world's most important medicines, to the people who need them the most. I have been working with the team on the school-based project, where we involve school students in our research. At the same time, students learn about the importance of chemistry in their everyday lives. Read more about our work here:</p>
 [E$$ENTIAL MEDICINE$ Website](https://www.breakinggoodproject.com/essentialmedicines)
 [E$$ENTIAL MEDICINE$ Repository](https://github.com/TheBreakingGoodProject/Essential-Medicines)
 [E$$ENTIAL MEDICINE$ in Schools blog](https://github.com/alintheopen/SCOPE/issues/13)
