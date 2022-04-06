@@ -44,6 +44,7 @@ I am working as a Program Manager (Science & STEM Specialist) for Future Anythin
 <h2>Teaching Resources</h2>
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/2)
+
 [Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chem-Ed-Doctorate/ATSI-Science)
 
 <h2>Published Works</h2>
