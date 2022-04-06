@@ -2,18 +2,22 @@
 
 <h3>To my PhD research repository, where I will share my work on science education in Australia.</h3>
 
-<p>My name is Genevieve Firmer and I am an energetic science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-10 science and STEM, senior chemistry and biology and in curriculum leadership. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>, where I am focussing on how curriculum influences classroom practice. From this research, I am hoping to develop evidence-based, open-access teaching & learning resources for senior chemistry.</p>
+<p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>, where I am exploring the relationship between education policy, curriculum and classroom practice in year 11-12 chemistry in Australia. I am hoping this research will provide insights into curriculum design for scientific literacy for all, as well as some directions for improving chemistry research & innovation in Australia.</p>
 
 <p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started to share my work in. Please feel free to have a browse. If you have any queries, ideas or feedback, please get in touch via the discussions tab.</p>
 
 <h2>Australian Chemistry Curriculum Analysis</h2>
 
-[Curriculum Analysis Overview](https://gfirmer.github.io/Chem-Ed-Doctorate/Curriculum-Project-Introduction)
+<p>I am starting my project with a comprehensive analysis of the year 11-12 chemistry courses in Australia. They are all based on the Australian curriculum framework, but each state has created a syllabus with their own flavour. I'm interested in how each course differs when it comes to content, specified context, and how they align to Australian science and innovation research priorities.</p>
+
+[Curriculum Analysis Project Overview](https://gfirmer.github.io/Chem-Ed-Doctorate/Curriculum-Project-Introduction)
 
 [Curriculum Analysis Progress](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/1)
 
 
 <h2>Other Education Projects</h2>
+
+<p>As a teacher-turned-PhD-student, I am doing a terrible job at staying focussed on my specific and narrow project. Here are some of the other things I've been working on.</p>
 
 [E$$ENTIAL MEDICINE$ in Schools](https://github.com/alintheopen/SCOPE/issues/13)
 
