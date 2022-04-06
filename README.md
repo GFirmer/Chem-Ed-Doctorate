@@ -22,11 +22,8 @@
 <h4>E$$ENTIAL MEDICINE$</h4>
 
 E$$ENTIAL MEDICINE$ is a [Breaking Good](https://www.breakinggoodproject.com/) intiative. We are investigating the accesibility of the world's most important medicines, to the people who need them the most. I have been working with the team on the school-based project, where we involve school students in our research. At the same time, students learn about the importance of chemistry in their everyday lives. Read more about our work here:
-
 [E$$ENTIAL MEDICINE$ Website](https://www.breakinggoodproject.com/essentialmedicines)
-
 [E$$ENTIAL MEDICINE$ Repository](https://github.com/TheBreakingGoodProject/Essential-Medicines)
-
 [E$$ENTIAL MEDICINE$ in Schools blog](https://github.com/alintheopen/SCOPE/issues/13)
 
 <h4>Nanosonic stories</h4>
@@ -37,10 +34,13 @@ coming soon
 
 USYD International Science School Chemistry Workshop 2021 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
 
+<h4>Future Anything</h4>
+
+I am working as a Program Manager (Science & STEM Specialist) for Future Anything. We use the curriculum as a vehicle to support students to see that they _can_ do something about the problems they see in the world. [Find out more here](https://futureanything.com/)
+
 <h2>Teaching Resources</h2>
 
 [Teacher Resources Project Progress & Links to published resources](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/2)
-
 [Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chem-Ed-Doctorate/ATSI-Science)
 
 <h2>Published Works</h2>
@@ -52,7 +52,6 @@ USYD International Science School Chemistry Workshop 2021 [The Second Law of The
 <h2>Blogs</h2>
 
 [Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
-
 [Ponderings of a PhD student](https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD)
 
 <h2>SCOPE Research Group</h2>
