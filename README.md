@@ -31,6 +31,8 @@
 
 <p>We are researching ways to communicate science through sound. Watch this space!</p>
 
+[Submitted manuscript](https://github.com/alintheopen/SCOPE/issues/17)
+
 <h3>USYD Outreach</h3>
 
 USYD International Science School Chemistry Workshop 2021 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
