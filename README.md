@@ -31,7 +31,7 @@
 
 <p>We are researching ways to communicate science through sound. Watch this space!</p>
 
-[Submitted manuscript](https://github.com/alintheopen/SCOPE/issues/17)
+[Sounding out science: the sonaphor and electronic sound design as a learning tool in secondary science](https://github.com/alintheopen/SCOPE/milestone/2)
 
 <h3>USYD Outreach</h3>
 
