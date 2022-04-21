@@ -28,7 +28,7 @@
 
 
 
-<h2>Bringing Research and Practice Together</h2>
+<h2>Bridging Research and Practice</h2>
 
 <p>While doing my more 'traditional' research, I am also exploring ways that research can inform teaching practice in different ways. Examples of my work include designing: school outreach workshops, student outreach workshops, units of study for in-school implementation and teaching resources which can be used in classrooms. Read about my work in more detail below:</p>
 
