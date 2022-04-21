@@ -60,7 +60,7 @@ I am working as a Program Manager (Science & STEM Specialist) for Future Anythin
 
 [Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chem-Ed-Doctorate/ATSI-Science)
 
-<h2>SCOPE Research Group</h2>
+<h1>My Research Group: SCOPE</h1>
 
 I am part of the [SCOPE (Science, Communication, Outreach, Participation and Education)](https://github.com/alintheopen/SCOPE) research group. We're a team of open source research students, post-docs and academics, who combine multi-disciplinary research and experience to develop better resources, practices and general approaches to science engagement. Our work is open source so please have a browse. To have a look at more of the work we do, head on over to the group [wiki](https://github.com/alintheopen/SCOPE/wiki) to find information about us and the projects we are working on.
 
