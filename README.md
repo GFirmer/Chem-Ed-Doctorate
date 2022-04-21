@@ -54,6 +54,7 @@ I am working as a Program Manager (Science & STEM Specialist) for Future Anythin
 <h2>Blogs</h2>
 
 [Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
+
 [Ponderings of a PhD student](https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD)
 
 <h2>SCOPE Research Group</h2>
