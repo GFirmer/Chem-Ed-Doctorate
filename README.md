@@ -2,7 +2,7 @@
 
 <p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>. My thesis title is: </p>
 
-<h2>How do policy, curriculum and research inform teaching practice in Australian secondary schools?</h2>
+<h1>How do policy, curriculum and research inform teaching practice in Australian secondary schools?</h1>
 
 <p>I am hoping my research will provide insights into curriculum design for scientific literacy for all, as well as some directions for improving chemistry research & innovation in Australia. I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started to share my work in. Please feel free to have a browse. If you have any queries, ideas or feedback, please get in touch via the discussions tab.</p>
 
@@ -14,10 +14,16 @@
 
 [Curriculum Analysis Progress](https://github.com/GFirmer/Chem-Ed-Doctorate/projects/1)
 
+<h2>Blogs</h2>
 
-<h2>Other Education Projects</h2>
+[Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
 
-<p>As a teacher-turned-PhD-student, I am doing a terrible job at staying focussed just on my project. Here are some of the other things I've been working on.</p>
+[Ponderings of a PhD student](https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD)
+
+
+<h1>Other Education Projects</h1>
+
+<p>As a teacher-turned-PhD-student, I am doing terribly at staying focussed on just my project. Here are some of the other things I've been working on:</p>
 
 <h3>E$$ENTIAL MEDICINE$</h3>
 
@@ -31,7 +37,7 @@
 
 <h3>Nanosonic stories</h3>
 
-<p>We are researching ways to communicate science through sound. Watch this space!</p>
+<p>We are researching ways to communicate fundamental chemistry concepts through sound. Listen to our first four sonaphors below:</p>
 
 [Sounding out science: the sonaphor and electronic sound design as a learning tool in secondary science](https://github.com/alintheopen/SCOPE/milestone/2)
 
@@ -53,11 +59,6 @@ I am working as a Program Manager (Science & STEM Specialist) for Future Anythin
 
 [Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chem-Ed-Doctorate/Antibiotic-plants-Jawoyn)
 
-<h2>Blogs</h2>
-
-[Me at the beginning of my project](https://github.com/alintheopen/SCOPE/issues/8)
-
-[Ponderings of a PhD student](https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD)
 
 <h2>SCOPE Research Group</h2>
 
