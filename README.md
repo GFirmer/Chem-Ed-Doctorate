@@ -20,6 +20,13 @@
 
 [Ponderings of a PhD student](https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD)
 
+<h2>Published Works</h2>
+
+<a href="https://gfirmer.github.io/Chem-Ed-Doctorate/Kriol-Biology">Using Kriol to Teach Biology</a>
+
+[Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chem-Ed-Doctorate/Antibiotic-plants-Jawoyn)
+
+
 
 <h1>Other Education Projects</h1>
 
@@ -52,13 +59,6 @@ I am working as a Program Manager (Science & STEM Specialist) for Future Anythin
 <h2>Teaching Resources</h2>
 
 [Aboriginal and Torres Strait Islander Histories and Cultures: Opportunities in the Australian Science Curriculum](https://gfirmer.github.io/Chem-Ed-Doctorate/ATSI-Science)
-
-<h2>Published Works</h2>
-
-<a href="https://gfirmer.github.io/Chem-Ed-Doctorate/Kriol-Biology">Using Kriol to Teach Biology</a>
-
-[Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chem-Ed-Doctorate/Antibiotic-plants-Jawoyn)
-
 
 <h2>SCOPE Research Group</h2>
 
