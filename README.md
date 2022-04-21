@@ -1,8 +1,10 @@
 <h1>Welcome!</h1>
 
-<p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>, where I am exploring the relationship between education policy, curriculum and classroom practice in year 11-12 chemistry in Australia. I am hoping this research will provide insights into curriculum design for scientific literacy for all, as well as some directions for improving chemistry research & innovation in Australia.</p>
+<p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>. My thesis title is: </p>
 
-<p>I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started to share my work in. Please feel free to have a browse. If you have any queries, ideas or feedback, please get in touch via the discussions tab.</p>
+<h2>How do policy, curriculum and research inform teaching practice in Australian secondary schools?</h2>
+
+<p>I am hoping my research will provide insights into curriculum design for scientific literacy for all, as well as some directions for improving chemistry research & innovation in Australia. I am using this repository and website to share my research journey. Below I have hyperlinked some of the areas I've started to share my work in. Please feel free to have a browse. If you have any queries, ideas or feedback, please get in touch via the discussions tab.</p>
 
 <h2>Australian Chemistry Curriculum Analysis</h2>
 
