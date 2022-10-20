@@ -26,7 +26,7 @@
 
 [Antibiotic Plants in the Jawoyn Region](https://gfirmer.github.io/Chem-Ed-Doctorate/Antibiotic-plants-Jawoyn)
 
-
+[Sounding Out Science: the Sonaphor and Electronic Sound Design as a Learning Tool in Secondary Science](https://link.springer.com/article/10.1007/s42438-022-00321-4)
 
 <h2>Bridging Research and Practice</h2>
 
