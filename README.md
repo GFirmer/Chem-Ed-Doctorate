@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 
-<p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>. My thesis title is: </p>
+<p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>, supervised by A/Prof Alice Motion<a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alice-motion.html</a> and Prof Siggi Schmid<a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/siegbert-schmid.html</a>. My thesis title is: </p>
 
 <h1>How do policy, curriculum and research inform teaching practice in Australian secondary schools?</h1>
 
