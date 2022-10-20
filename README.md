@@ -41,6 +41,12 @@ We are researching ways to communicate chemistry concepts through sound. Listen 
 
 And read our first publication! [Sounding Out Science: the Sonaphor and Electronic Sound Design as a Learning Tool in Secondary Science](https://link.springer.com/article/10.1007/s42438-022-00321-4))
 
+<h3>RACI Chemistry Education</h3>
+
+In the NSW RACI Chemistry Education Group, we are working on bridging the gap between secondary and tertiary chemistry education. The first project I got involved in was the RACI Nomenclature Document, a comprehensive 'how-to' for IUPAC Nomenclature of Organic compounds that Australian students need to be familiar with. 
+
+You can access the document here: https://www.dropbox.com/sh/ac0vgjjxworklza/AAASeqIZTmUailOVfY44GSvja?dl=0
+
 <h3>USYD Outreach</h3>
 
 USYD International Science School Chemistry Workshop 2021 [The Second Law of Thermodynamics](https://gfirmer.github.io/Chem-Ed-Doctorate/Entropy)
