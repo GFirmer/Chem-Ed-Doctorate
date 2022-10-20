@@ -1,6 +1,8 @@
 <h1>Welcome!</h1>
 
-<p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>, supervised by <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alice-motion.html">A/Prof Alice Motion</a> and <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/siegbert-schmid.html">Prof Siggi Schmid</a>. My thesis title is: </p>
+<p>My name is Genevieve Firmer and I am a passionate science educator that loves to play with new ideas about engaging students in learning. I have experience teaching F-12 science and STEM, senior chemistry and biology and in curriculum leadership in Australian schools. I am currently working on my PhD in Chemistry Education as part of the <a href="https://github.com/alintheopen/SCOPE">SCOPE Group</a>, supervised by <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alice-motion.html">A/Prof Alice Motion</a> and <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/siegbert-schmid.html">Prof Siggi Schmid</a>. </p>
+  
+<p>My thesis title is: </p>
 
 <h1>How do policy, curriculum and research inform teaching practice in Australian secondary schools?</h1>
 
@@ -65,3 +67,5 @@ I am working as a Program Manager (Science & STEM Specialist) for Future Anythin
 I am part of the [SCOPE (Science, Communication, Outreach, Participation and Education)](https://github.com/alintheopen/SCOPE) research group. We're a team of open source research students, post-docs and academics, who combine multi-disciplinary research and experience to develop better resources, practices and general approaches to science engagement. Our work is open source so please have a browse. To have a look at more of the work we do, head on over to the group [wiki](https://github.com/alintheopen/SCOPE/wiki) to find information about us and the projects we are working on.
 
 SCOPE is based in the [School of Chemistry at the University of Sydney, Australia.](https://www.sydney.edu.au/science/schools/school-of-chemistry.html)
+
+<p>You can also find me on Twitter [@Genevieve_Echo](https://twitter.com/genevieve_echo), [LinkedIn](https://www.linkedin.com/in/genevieve-firmer) and [Research Gate](https://www.researchgate.net/profile/Genevieve-Firmer)</p>
