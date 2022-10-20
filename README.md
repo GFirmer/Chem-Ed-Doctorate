@@ -68,4 +68,4 @@ I am part of the [SCOPE (Science, Communication, Outreach, Participation and Edu
 
 SCOPE is based in the [School of Chemistry at the University of Sydney, Australia.](https://www.sydney.edu.au/science/schools/school-of-chemistry.html)
 
-<p>You can also find me on Twitter [@Genevieve_Echo](https://twitter.com/genevieve_echo), [LinkedIn](https://www.linkedin.com/in/genevieve-firmer) and [Research Gate](https://www.researchgate.net/profile/Genevieve-Firmer)</p>
+You can also find me on Twitter [@Genevieve_Echo](https://twitter.com/genevieve_echo), [LinkedIn](https://www.linkedin.com/in/genevieve-firmer) and [Research Gate](https://www.researchgate.net/profile/Genevieve-Firmer)
