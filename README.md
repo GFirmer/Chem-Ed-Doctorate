@@ -14,7 +14,7 @@ And in the education world, I work as a facilitator and science specialist with 
 
 <h4>Teaching Resources I have designed or collaborated on: these include chemistry, science and some experience working with Indigenous students.</h4>
 
-<h4>[My blog, which collates thoughts on all of the above]</h4>(https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD)
+<h4>My [blog](https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD), which collates thoughts on all of the above</h4>
 
 You can also find me on Twitter [@Genevieve_Echo](https://twitter.com/genevieve_echo), [LinkedIn](https://www.linkedin.com/in/genevieve-firmer) and [Research Gate](https://www.researchgate.net/profile/Genevieve-Firmer)
   
