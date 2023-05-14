@@ -9,4 +9,4 @@ Click on one of the headings below:
 
 <h3>Science Teaching Resources, with a focus on project-based learning</h3>
 
-<h3>Thoughts, provocations from working with Indigenous Students</h3>
+<h3><a href="https://gfirmer.github.io/Chem-Ed-Doctorate/ATSI-Science">Successes & sharing: working with Indigenous Students</a></h3>
