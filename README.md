@@ -11,7 +11,9 @@ And in the education world, I work as a facilitator and science specialist with 
 <h3>On this site, you can find</h3>
         
 <h4>Information about my PhD research, where I ask how do policy, curriculum and research inform teaching practice in Australian secondary schools?
+
 Teaching Resources I have designed or collaborated on: these include chemistry, science and some experience working with Indigenous students.
+
 My curious corner of blog posts which collate thoughts on all of the above</h4>
 
 You can also find me on Twitter [@Genevieve_Echo](https://twitter.com/genevieve_echo), [LinkedIn](https://www.linkedin.com/in/genevieve-firmer) and [Research Gate](https://www.researchgate.net/profile/Genevieve-Firmer)
