@@ -12,7 +12,7 @@ And in the education world, I work as a facilitator and science specialist with 
         
 <h4>Information about my PhD research, where I ask how do policy, curriculum and research inform teaching practice in Australian secondary schools?</h4>
 
-<h4>Teaching Resources I have designed or collaborated on: these include chemistry, science and some experience working with Indigenous students.</h4>
+<h4><a href="https://gfirmer.github.io/Chem-Ed-Doctorate/Teaching-Resources">Teaching Resources</a> I have designed or collaborated on: these include chemistry, science and some experience working with Indigenous students.</h4>
 
 <h4>My <a href="https://gfirmer.github.io/Chem-Ed-Doctorate/Ponderings-of-a-PhD">blog</a> which collates thoughts on all of the above</h4>
 
