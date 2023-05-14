@@ -6,7 +6,7 @@
 
 <p>The science curriculum in Australia is divided into three strands: Science Understanding, Science Inquiry Skills, and Science as a Human Endeavour. These strands are intended to be taught in an integrated fashion.</p>
 
-<p><a href="https://gfirmer.github.io/Chemistry-teacher/Topics">List of topics covered in year 11-12 chemistry in Australia</a>
+<p><a href="https://gfirmer.github.io/Chem-Ed-Doctorate/Topics">List of topics covered in year 11-12 chemistry in Australia</a>
 
 <h3>Why do we care about the curricula in all of the states?</h3>
 
