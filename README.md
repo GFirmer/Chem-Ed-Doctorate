@@ -8,7 +8,7 @@ In the research world, I am in the midst of completing a PhD that looks into how
 
 And in the education world, I work as a facilitator and science specialist with Future Anything, where we partner with young people, educators and schools to transform passion and curiosity into innovative ideas that make their world a better place.
 
-<h3>On this site, you can find:</h3>
+<h2>On this site, you can find:</h2>
         
 <h4>Information about my PhD research, where I ask how do policy, curriculum and research inform teaching practice in Australian secondary schools?</h4>
 
