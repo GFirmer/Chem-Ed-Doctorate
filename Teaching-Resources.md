@@ -5,4 +5,8 @@ One of my favourite things about being on hiatus from the classroom is having ti
 
 Click on one of the headings below:
 
-<h3>.</h3>
+<h3>Chemistry Teaching Resources</h3>
+
+<h3>Science Teaching Resources, with a focus on project-based learning</h3>
+
+<h3>Thoughts, provocations from working with Indigenous Students</h3>
