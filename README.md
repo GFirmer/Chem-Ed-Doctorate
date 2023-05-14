@@ -45,7 +45,7 @@ And read our first publication! [Sounding Out Science: the Sonaphor and Electron
 
 In the NSW RACI Chemistry Education Group, we are working on bridging the gap between secondary and tertiary chemistry education. The first project I got involved in was the RACI Nomenclature Document, a comprehensive 'how-to' for IUPAC Nomenclature of Organic compounds that Australian students need to be familiar with. 
 
-You can access the document here: https://www.dropbox.com/sh/ac0vgjjxworklza/AAASeqIZTmUailOVfY44GSvja?dl=0
+You can access the document here: [RACI Chem Ed Nomenclature Resource](https://www.raci.org.au/Web/Schools/Nomenclature/Nomemclature_resource.aspx)
 
 <h3>USYD Outreach</h3>
 
